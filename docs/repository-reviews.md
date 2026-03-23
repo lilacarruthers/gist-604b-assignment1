@@ -8,8 +8,8 @@
 
 ## Repository 1
 
-**Repository Name:**  
-**Link:**  
+**Repository Name: opentopodata**  
+**Link: https://github.com/ajnisbet/opentopodata**  
 
 ### Purpose
 What does this project do?
@@ -30,8 +30,8 @@ One thing this project does well.
 
 ## Repository 2
 
-**Repository Name:**  
-**Link:**  
+**Repository Name: rasterio**  
+**Link: https://github.com/rasterio/rasterio**  
 
 ### Purpose
 What does this project do?
@@ -52,8 +52,8 @@ One thing this project does well.
 
 ## Repository 3
 
-**Repository Name:**  
-**Link:**  
+**Repository Name: GISLite**  
+**Link: https://github.com/bukun/GISLite**  
 
 ### Purpose
 What does this project do?
@@ -74,8 +74,8 @@ One thing this project does well.
 
 ## Repository 4
 
-**Repository Name:**  
-**Link:**  
+**Repository Name: geoparquet**  
+**Link: https://github.com/opengeospatial/geoparquet**  
 
 ### Purpose
 What does this project do?
@@ -93,7 +93,6 @@ Is the repository actively maintained?
 One thing this project does well.
 
 ---
-
 
 ## Reflection
 
